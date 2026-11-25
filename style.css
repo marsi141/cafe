@@ -3,7 +3,14 @@ html {
   font-family: "Agrave Pro", cursive;
   font-optical-sizing: auto;
   font-weight: 100;
+  color: #412e2e;
   
+
+}
+body{
+   background-image: url("https://media.istockphoto.com/id/1319627099/photo/food-and-drink.jpg?s=612x612&w=0&k=20&c=zXr_OI0pbe7FAuP-5ccBCX5zWzUffOJyhDgraHh7-r4=");
+    background-repeat: no-repeat;
+    background-size: cover;
 
 }
 .header{
@@ -33,14 +40,30 @@ hr{
     width: 100%;
 }
 .starters{
+    
     text-align: center;
 }
-.menu{
+.pahilo {
     display: flex;
-    padding: 20px;
-    gap: 600px;
+    justify-content: space-around;
 }
-.description{
+.first:hover{
+    background-color: #000000;
+    color: #ffffff;
+}
+.second:hover{
+    background-color: #000000;
+    color: #ffffff;
+}
+.dosro{
     display: flex;
-    padding: 90px;
+    justify-content: space-around;
+}
+.third:hover{
+    background-color: #000000;
+    color: #ffffff;
+}
+.fourth:hover{
+    background-color: #000000;
+    color: #ffffff;
 }
