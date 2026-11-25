@@ -8,7 +8,7 @@ html {
 
 }
 body{
-   background-image: url("https://media.istockphoto.com/id/1319627099/photo/food-and-drink.jpg?s=612x612&w=0&k=20&c=zXr_OI0pbe7FAuP-5ccBCX5zWzUffOJyhDgraHh7-r4=");
+   background-image: url("https://wallpapers.com/images/hd/cream-color-background-4bzuv5ojrzh90bls.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -47,23 +47,55 @@ hr{
     display: flex;
     justify-content: space-around;
 }
+.second,.fourth{
+    text-align: left;
+    
+}
 .first:hover{
-    background-color: #000000;
-    color: #ffffff;
+    background-color: #ffffff;
+    color: #000000;
 }
 .second:hover{
-    background-color: #000000;
-    color: #ffffff;
+    background-color: #ffffff;
+    color: #000000;
 }
 .dosro{
     display: flex;
     justify-content: space-around;
 }
 .third:hover{
-    background-color: #000000;
-    color: #ffffff;
+    background-color: #ffffff;
+    color: #000000;
 }
 .fourth:hover{
-    background-color: #000000;
-    color: #ffffff;
+    background-color: #ffffff;
+    color: #000000;
+}
+.wood{
+    
+    text-align: center;
+}
+.uno {
+    display: flex;
+    justify-content: space-around;
+}
+.ichi:hover{
+    background-color: #ffffff;
+    color: #000000;
+}
+.nii:hover{
+    background-color: #ffffff;
+    color: #000000;
+}
+.dos{
+    display: flex;
+    justify-content: space-around;
+}
+.san:hover{
+    background-color: #ffffff;
+    color: #000000;
+}
+.yon:hover{
+    background-color: #ffffff;
+    color: #000000;
 }
