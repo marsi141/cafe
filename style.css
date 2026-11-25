@@ -107,7 +107,7 @@ hr{
     background-color: #ffffff;
     color: #000000;
 }
-.dessert{
+.desert{
     border-style: dashed;
     text-align: center;
 }
@@ -137,4 +137,10 @@ hr{
 .four:hover{
     background-color: #ffffff;
     color: #000000;
+}
+.info{
+    color: #ffffff;
+    display: flex;
+    justify-content: space-around;
+    background-color: #412e2e;
 }
