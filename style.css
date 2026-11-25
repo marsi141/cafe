@@ -40,7 +40,7 @@ hr{
     width: 100%;
 }
 .starters{
-    
+    border-style: dashed;
     text-align: center;
 }
 .pahilo {
@@ -51,9 +51,14 @@ hr{
     text-align: left;
     
 }
+.first,.second,.third,.fourth{
+    
+    border-style:outset;
+}
 .first:hover{
     background-color: #ffffff;
     color: #000000;
+    
 }
 .second:hover{
     background-color: #ffffff;
@@ -72,12 +77,15 @@ hr{
     color: #000000;
 }
 .wood{
-    
+    border-style: dashed;
     text-align: center;
 }
 .uno {
     display: flex;
     justify-content: space-around;
+}
+.ichi,.dos,.san,.yon{
+    border-style: outset;
 }
 .ichi:hover{
     background-color: #ffffff;
@@ -96,6 +104,37 @@ hr{
     color: #000000;
 }
 .yon:hover{
+    background-color: #ffffff;
+    color: #000000;
+}
+.dessert{
+    border-style: dashed;
+    text-align: center;
+}
+.ek{
+    display: flex;
+    justify-content: space-around;
+}
+.dui{
+    display: flex;
+    justify-content: space-around;
+}
+.one,.two,.three,.four{
+    border-style: outset;
+}
+.one:hover{
+    background-color: #ffffff;
+    color: #000000;
+}
+.two:hover{
+    background-color: #ffffff;
+    color: #000000;
+}
+.three:hover{
+    background-color: #ffffff;
+    color: #000000;
+}
+.four:hover{
     background-color: #ffffff;
     color: #000000;
 }
