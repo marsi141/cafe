@@ -144,3 +144,8 @@ hr{
     justify-content: space-around;
     background-color: #412e2e;
 }
+.reserve:hover{
+
+     background-color: #f1c3c3;
+    color: #000000;
+}
